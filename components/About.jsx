@@ -15,7 +15,6 @@ const InfoData = [
   { icon: <User2 size={20} />, text: "Chandan Pargi" },
   { icon: <PhoneCall size={20} />, text: "+91 9773283615" },
   { icon: <MailIcon size={20} />, text: "Chandan.rxn@gmail.com" },
-  { icon: <Calendar size={20} />, text: "Born on 22nd Nov, 1997" },
   { icon: <GraduationCap size={20} />, text: "Software Developer" },
   { icon: <HomeIcon size={20} />, text: "Ahmedabad, Gujarat" },
 ];
