@@ -26,4 +26,6 @@ It showcases my projects, skills, and experience as a **React.js / React Native 
 ## 📸 Screenshot
 | Light Mode | Dark Mode |
 |---|---|
-| <img width="1920" height="4868" alt="screencapture-localhost-3000-2025-08-29-16_38_21" src="https://github.com/user-attachments/assets/a134f66d-57a1-4379-8a20-924da96a1e36" /> | <img width="1920" height="4868" alt="screencapture-localhost-3000-2025-08-29-16_38_48" src="https://github.com/user-attachments/assets/ad53988b-1b3e-4ba9-a3df-42aacdfe57cf" /> |
+| <img width="1920" height="4868" alt="screencapture-chandanrx13-vercel-app-2025-09-08-16_29_07" src="https://github.com/user-attachments/assets/19ecdf20-16f1-4498-81c7-b0a97c995ad4" />
+ | <img width="1920" height="4868" alt="screencapture-chandanrx13-vercel-app-2025-09-08-16_29_38" src="https://github.com/user-attachments/assets/dd2046be-a0e0-4964-8648-0387952e31e3" />
+ |
